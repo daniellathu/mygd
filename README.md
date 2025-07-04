@@ -38,15 +38,11 @@ git clone https://github.com/daniellathu/mygd.git
 
 flutter pub get
 
-3. Configure Firebase
-
-Place your google-services.json file in android/app/.
-
-4. Run the App
+3. Run the App
 
 flutter run
 
-5. Build for Release
+4. Build for Release
 
 flutter build apk --split-per-abi
 
