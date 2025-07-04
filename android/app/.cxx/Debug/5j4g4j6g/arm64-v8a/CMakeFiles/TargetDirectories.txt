@@ -1,0 +1,2 @@
+C:/FYP/mygd_frontend/android/app/.cxx/Debug/5j4g4j6g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/FYP/mygd_frontend/android/app/.cxx/Debug/5j4g4j6g/arm64-v8a/CMakeFiles/rebuild_cache.dir

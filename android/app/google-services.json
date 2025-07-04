@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081447743391",
+    "project_id": "mygd-90dec",
+    "storage_bucket": "mygd-90dec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081447743391:android:3a3ddfcb36fe6db1dd07aa",
+        "android_client_info": {
+          "package_name": "com.example.mygd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbmlRCD-eYZ2CWBIIlFc0_jH-KN5dRMHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
