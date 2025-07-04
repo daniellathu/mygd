@@ -31,14 +31,19 @@ A device or emulator to run the app
 
 ## Setup Steps
 1. Clone the Repository
+
 git clone https://github.com/daniellathu/mygd.git
 2. Install Dependencies
+
 flutter pub get
 3. Configure Firebase
+
 Place your google-services.json file in android/app/.
 4. Run the App
+
 flutter run
 5. Install application directly
+
 Android:
 build/app/outputs/flutter-apk/app-arm64-v8a-release
 
