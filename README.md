@@ -46,10 +46,9 @@ Place your google-services.json file in android/app/.
 
 flutter run
 
-5. Install application directly
+5. Build for Release
 
-Android:
-build/app/outputs/flutter-apk/app-arm64-v8a-release
+flutter build apk --split-per-abi
 
 ## Project Structure
 lib/
